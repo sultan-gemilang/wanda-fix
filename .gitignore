@@ -2,3 +2,9 @@
 .env
 *.pyc
 *.DS_Store
+
+#Local
+prune_llm
+llm_weights
+saved_model
+out
